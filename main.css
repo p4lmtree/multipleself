@@ -1,5 +1,5 @@
 body{
-    font-family: 'Guardi LT Std' sans-serif;
+    font-family: Guardi LT Std;
     font-size: 12px;
     text-align: justify;
     margin: 0 auto;
@@ -17,7 +17,7 @@ header{
 h1{
     text-align: center;
     color: black;
-    font-family: 'grandslang' sans-serif;
+    font-family: grandslang;
     font-weight: 100;
     margin: 30px;
 
