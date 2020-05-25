@@ -1,0 +1,55 @@
+body{
+    font-family: Guardi LT Std;
+    font-size: 12px;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 0 130px;
+    max-width: 400px;
+
+}
+
+header{
+    background-color: blue;
+    margin: auto;
+    padding: 50px;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-family: grandslang;
+    font-weight: 100;
+    margin: 30px;
+
+}
+
+h1:hover{
+    color: blue;
+}
+
+h2 img{
+    
+    max-width: 50%;
+
+}
+
+main{
+    max-width: 100px;
+  
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+}
+
+a:hover{
+    color: blue
+}
+
+
+
+
