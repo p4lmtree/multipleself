@@ -1,11 +1,6 @@
 
-@font-face {
-font-family: "GrandSlang-Roman";
-src: url("https://p4lmtree.github.io/multipleselfwebsite/GrandSlang-Roman.woff");
-}
-
 body{
-    font-family: Guardi LT Std;
+    font-family: 'Crimson Text', serif;
     font-size: 12px;
     text-align: justify;
     margin: 0 auto;
@@ -23,7 +18,7 @@ header{
 h1{
     text-align: center;
     color: black;
-    font-family: 'GrandSlang-Roman';
+    font-family: 'Karla', sans-serif;
     font-weight: 100;
     margin: 30px;
 
