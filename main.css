@@ -1,4 +1,9 @@
 
+@font-face {
+font-family: "GrandSlang-Roman";
+src: url("https://p4lmtree.github.io/multipleselfwebsite/GrandSlang-Roman.woff");
+}
+
 body{
     font-family: Guardi LT Std;
     font-size: 12px;
