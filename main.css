@@ -9,7 +9,7 @@ body{
 
 }
 
-header{
+header img{
     max-width: 100%;
     max-height: 100%;
     align-content: center;
@@ -18,7 +18,7 @@ header{
 h1{
     text-align: center;
     color: black;
-    font-family: 'Karla', sans-serif;
+    font-family: 'GrandSlang-Roman', sans-serif;
     font-weight: 100;
     margin: 30px;
 
